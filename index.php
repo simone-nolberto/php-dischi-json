@@ -1,10 +1,3 @@
-<?php
-
-// include __DIR__ . './api.php';
-
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 
