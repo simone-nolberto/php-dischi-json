@@ -16,9 +16,9 @@ createApp({
 
         axios.get(this.discsAPI)
             .then(response => {
-                console.log(response);
+                // console.log(response);
                 this.discs = response.data;
-                console.log(this.discs);
+                // console.log(this.discs);
             })
     }
 

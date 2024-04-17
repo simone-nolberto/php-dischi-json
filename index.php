@@ -1,13 +1,3 @@
-<?php
-
-$string = file_get_contents("dischi.json",);
-
-$discsArray = json_decode($string, true);
-// var_dump($discsArray);
-
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 
