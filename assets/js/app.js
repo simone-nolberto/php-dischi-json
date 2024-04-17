@@ -5,7 +5,7 @@ const { createApp } = Vue
 createApp({
     data() {
         return {
-            discsAPI: "api.php",
+            discsAPI: "dischi.json",
             discs: '',
         }
 
