@@ -1,3 +1,10 @@
+<?php
+
+// include __DIR__ . './api.php';
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,7 +16,7 @@
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 
-<body>
+<body class="text-white">
 
     <div class="nav"></div>
 
