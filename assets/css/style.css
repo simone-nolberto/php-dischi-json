@@ -1,0 +1,22 @@
+:root {
+    --booltify--nav: #06131F;
+    --booltify--back: #1D2D3C;
+    --booltify--card: #112030;
+}
+
+
+body {
+    background-color: var(--booltify--back);
+}
+
+.nav{
+    background-color: var(--booltify--nav);
+    width: 100%;
+    height: 100px;
+}
+
+
+.card{
+    background-color: var(--booltify--card);
+}
+
